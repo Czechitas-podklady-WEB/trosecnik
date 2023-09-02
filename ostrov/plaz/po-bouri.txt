@@ -1,13 +1,13 @@
-Po bouři
+Po bouri
 
-Z lezení po skalách jsi vyčerpaný, máš velkou žízeň a hlad. Mraky se však začínají trhat a ty vidíš, že několik kilometrů přes moře se nachází větší ostrov se známkami civilizace.
+Z lezeni po skalach jsi vycerpany, mas velkou zizeň a hlad. Mraky se vsak zacinaji trhat a ty vidis, ze nekolik kilometru pres more se nachazi vetsi ostrov se znamkami civilizace.
 
-Co uděláš?
+Co udelas?
 
-1. Pár kilometrů přece doplavat zvládneš. Odhodlaně se vrháš do vln.
+1. Par kilometru prece doplavat zvladnes. Odhodlane se vrhas do vln.
 
    Vlny (../../more/vlny.txt)
 
-2. Vrátíš se ke skalnímu převisu odpočinout si a snad nabrat trochu sil.
+2. Vratis se ke skalnimu previsu odpocinout si a snad nabrat trochu sil.
 
-    Odpočinek (odpocinek.txt)
+    Odpocinek (odpocinek.txt)

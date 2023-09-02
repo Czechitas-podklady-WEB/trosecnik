@@ -1,11 +1,11 @@
-Odpočinek
+Odpocinek
 
-Po vydatném spánku se probudíš do slunného rána. Všimneš si, že noční déšť naplnil nedalekou sklaní prohlubeň dešťovou vodou. Můžeš tedy uhasit palčivou žízeň.
+Po vydatnem spanku se probudis do slunneho rana. Vsimnes si, ze nocni desť naplnil nedalekou sklani prohlubeň desťovou vodou. Muzes tedy uhasit palcivou zizeň.
 
-Moře navíc na pláž vyplavilo několik předmětů ze ztroskotané lodi. Mezi nimi i záchranný plovák, hurá!
+More navic na plaz vyplavilo nekolik predmetu ze ztroskotane lodi. Mezi nimi i zachranny plovak, hura!
 
-Co uděláš?
+Co udelas?
 
-1. Plný sil a odhlodlání se vydáváš do moře.
+1. Plny sil a odhlodlani se vydavas do more.
 
-   Plavání (../../more/plavani.txt)
+   Plavani (../../more/plavani.txt)

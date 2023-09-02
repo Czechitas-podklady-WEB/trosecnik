@@ -1,5 +1,5 @@
-Hra Trosečník
+Hra Trosecnik
 
-Vítejte v naší ve hře „Trosečník“.
+Vitejte v nasi ve hre „Trosecnik“.
 
-Začít hrát (zacatek.txt)
+Zacit hrat (zacatek.txt)

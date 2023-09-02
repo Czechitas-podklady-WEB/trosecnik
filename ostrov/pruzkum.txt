@@ -1,13 +1,13 @@
-Průzkum
+Pruzkum
 
-Bohužel ostrov není žádným tropickým rájem plným kokosových palem a přátelských domorodců. Vidíš jen holou skálu a kamení. Navíc se již pomalu začíná smrákat.
+Bohuzel ostrov neni zadnym tropickym rajem plnym kokosovych palem a pratelskych domorodcu. Vidis jen holou skalu a kameni. Navic se jiz pomalu zacina smrakat.
 
-Co uděláš?
+Co udelas?
 
-1. Vydáš se na skalní vrcholek mávat na projíždějící lodě.
+1. Vydas se na skalni vrcholek mavat na projizdejici lode.
 
    Vrcholek (vrcholek.txt)
 
-2. Vrátíš se zpět na pláž k plovoucím troskám.
+2. Vratis se zpet na plaz k plovoucim troskam.
 
-   Po bouři (plaz/po-bouri.txt)
+   Po bouri (plaz/po-bouri.txt)

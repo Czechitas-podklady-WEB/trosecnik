@@ -1,9 +1,9 @@
 Vrcholek
 
-Ze skalního vrcholku vidíš v šeru a mlze obrysy trajektu a několika výletních lodí. Zběsila máváš, skáčeš a všelijak se snažíš na sebe upozornit. Nikdo tě však nevidí.
+Ze skalniho vrcholku vidis v seru a mlze obrysy trajektu a nekolika vyletnich lodi. Zbesila mavas, skaces a vselijak se snazis na sebe upozornit. Nikdo te vsak nevidi.
 
-Co uděláš?
+Co udelas?
 
-1. Jsi unavený a vyčerpaný, zklamaně se vrátíš zpět na pláž.
+1. Jsi unaveny a vycerpany, zklamane se vratis zpet na plaz.
 
-   Po bouři (plaz/po-bouri.txt)
+   Po bouri (plaz/po-bouri.txt)

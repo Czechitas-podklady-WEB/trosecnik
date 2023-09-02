@@ -1,13 +1,13 @@
-Začátek
+Zacatek
 
-Rozbouřené moře tě jako hadrovou panenku vyvrhlo na kamenitý břeh. Skalnaté pobřeží bičuje silný vítr a hustý déšť. Opodál se ve vlnách zmítá tvá plachetnice, která se právě rozlomila o skaliska.
+Rozbourene more te jako hadrovou panenku vyvrhlo na kamenity breh. Skalnate pobrezi bicuje silny vitr a husty desť. Opodal se ve vlnach zmita tva plachetnice, ktera se prave rozlomila o skaliska.
 
-Co uděláš?
+Co udelas?
 
-1. Vyškrábeš se ven z vody a vydáš se do skal hledat úkryt před deštěm a větrem.
+1. Vyskrabes se ven z vody a vydas se do skal hledat ukryt pred destem a vetrem.
 
-   Úkryt (ostrov/plaz/ukryt.txt)
+   Ukryt (ostrov/plaz/ukryt.txt)
 
-2. Vrhneš se do vln zachránit z lodi aspoň něco, co by ti mohlo pomoct přežít v divočině.
+2. Vrhnes se do vln zachranit z lodi aspoň neco, co by ti mohlo pomoct prezit v divocine.
 
    Plachetnice (more/plachetnice.txt)
